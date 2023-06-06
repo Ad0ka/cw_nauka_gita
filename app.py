@@ -3,6 +3,6 @@ app = Flask(__name__)
 @app.route('/')
 def index():
  return '<h1>Hello WSB! Greetings from Flask!</h1>'
-if __name__ == "__main__":
+if __name__ == "Arkadiusz":
  app.run(debug=True)
 
